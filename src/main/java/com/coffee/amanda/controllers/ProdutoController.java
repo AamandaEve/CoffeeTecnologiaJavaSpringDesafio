@@ -13,9 +13,9 @@ import com.coffee.amanda.model.entities.Produto;
 import com.coffee.amanda.model.repositories.ProdutoRepository;
 
 import jakarta.validation.Valid;
-//Realizando QUARTO teste sobre git, será que deu certo?
+//Realizando Quinto teste sobre git, será que deu certo agora?
 @RestController
-@RequestMapping("/produtos4")
+@RequestMapping("/produtos5")
 public class ProdutoController {
 
     @Autowired
