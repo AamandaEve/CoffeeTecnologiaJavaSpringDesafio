@@ -13,7 +13,7 @@ import com.coffee.amanda.model.entities.Produto;
 import com.coffee.amanda.model.repositories.ProdutoRepository;
 
 import jakarta.validation.Valid;
-//Ultimo teste git
+//Codigo pre DTO
 @RestController
 @RequestMapping("/produtos")
 public class ProdutoController {
